@@ -1,7 +1,8 @@
 package main
 
-import "awesomeProject/api"
+import "firstproject/api"
 
 func main() {
-	api.Router()
+	//启动路由
+	api.Apirouter()
 }
